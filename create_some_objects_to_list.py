@@ -10,7 +10,7 @@ p2=Person("Shavkat")
 p3=Person("Jasur")
 
 persons=[]
-persons.append(p1)
-persons.append(p2)
-persons.append(p3)
+persons.append(p1.name)
+persons.append(p2.name)
+persons.append(p3.name)
 print(persons)
